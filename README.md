@@ -1,7 +1,7 @@
 # view-more
 汇总库~查看更多。
 
-## [vue-cli-plugin-qiniu-upload](https://github.com/liuyunzhuge/vue-cli-plugin-qiniu-upload)
+## [simple-qiniu-upload](https://github.com/liuyunzhuge/simple-qiniu-upload)
 一个简单的工具，把静态资源发布到七牛的CDN空间。仅需配置七牛AK和SK，就能方便地把某个目录下的文件上传到指定的空间，且支持覆盖式上传。
 
 ## [hexo-blog](https://github.com/liuyunzhuge/hexo-blog)
